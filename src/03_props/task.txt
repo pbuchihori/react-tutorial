@@ -1,0 +1,4 @@
+# Props
+1. Props.jsxのpropsを書き換えて画面の表示内容が変わることを確認しよう！
+
+2. Greets.jsxにpropsを追加して自己紹介を充実させよう！

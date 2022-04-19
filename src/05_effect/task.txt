@@ -1,0 +1,8 @@
+#Effect
+
+1. Effect.jsxを編集して、answerにnum1とnum2とnum3とnum4を足した答えを出力しよう
+
+2. Effect.jsxを編集して、num4の値を変えたときにはanswerの計算を行わないようにしよう
+
+
+
